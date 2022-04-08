@@ -1,2 +1,2 @@
-# projeto-glass-html5
+# Projeto de HTML5 e CSS3
  
